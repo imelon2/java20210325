@@ -25,8 +25,8 @@ public class A03TypeByte {
 		byteVar = -128;
 		byteVar = 127;
 		
-		byteVar = -129;// 안나옴
-		byteVar = 128; // 안나옴
+//		byteVar = -129;// 안나옴
+//		byteVar = 128; // 안나옴
 						//십진법에선 나올수 없는 숫자
 	}
 }
