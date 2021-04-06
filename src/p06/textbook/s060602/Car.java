@@ -1,4 +1,4 @@
-package p06.textbook.s060401;
+package p06.textbook.s060602;
 
 public class Car {
 	String company = "현대자동차";
